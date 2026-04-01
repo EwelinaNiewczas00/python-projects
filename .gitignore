@@ -1,0 +1,15 @@
+# Wirtualne środowiska
+.venv/
+venv/
+env/
+
+# Pliki tymczasowe Pythona
+__pycache__/
+*.pyc
+
+# Śmieci systemowe macOS
+.DS_Store
+
+# Pliki konfiguracyjne edytorów
+.vscode/
+.idea/
