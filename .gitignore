@@ -13,3 +13,4 @@ __pycache__/
 # Pliki konfiguracyjne edytorów
 .vscode/
 .idea/
+.pyproject.toml
